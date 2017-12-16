@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/locale-bug.iml" filepath="$PROJECT_DIR$/locale-bug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/locale-bug_main.iml" filepath="$PROJECT_DIR$/.idea/modules/locale-bug_main.iml" group="locale-bug" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/locale-bug_test.iml" filepath="$PROJECT_DIR$/.idea/modules/locale-bug_test.iml" group="locale-bug" />
+    </modules>
+  </component>
+</project>
